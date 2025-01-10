@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akfaqih3&show_icons=true&locale=en" alt="akfaqih3" /></p>
 
-<p><img align="center" src="https://akfaqih3.github.io/Portfolio/images/logo.png" width=64 alt="akfaqih3" /></p>
+<p><img align="center" src="https://akfaqih3.github.io/Portfolio/images/logo.png" width=42 alt="akfaqih3" /></p>
